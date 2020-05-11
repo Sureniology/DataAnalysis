@@ -1,4 +1,4 @@
-# DataAnalysis
+# Data Science
 Analytics Evaluation 
 Instructions :   Q1 & Q2 are mandatory, Q3 is bonus if attempted.    Do the analytics in cloud where possible (free trial versions).    Other methods are also acceptable.  Do include documentations.     
 Azure : https://studio.azureml.net/  
